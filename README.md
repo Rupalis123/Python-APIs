@@ -2,7 +2,7 @@
 
 ## Background
 
-This project is to visualize the weather of randomly selected 500+ cities across the world of varying distance from the equator.
+This project visualizes the weather of randomly selected 500+ cities across the world of varying distance from the equator.
 
 ## Part I - WeatherPy
 
