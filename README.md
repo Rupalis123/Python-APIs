@@ -27,7 +27,7 @@ A linear regression has been run on each relationship, separating them into Nort
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-#### For detail report please refer Observations.docx
+#### For detail report please refer Observations.pdf
 
 ### Part II - VacationPy 
 Using part I analysis to determine great vacation spots. The end result is finding hotels at preffered vacation cities.
